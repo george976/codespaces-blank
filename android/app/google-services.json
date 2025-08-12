@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "356062474015",
+    "firebase_url": "https://backendmilliong-default-rtdb.firebaseio.com",
+    "project_id": "backendmilliong",
+    "storage_bucket": "backendmilliong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356062474015:android:75b42bd312a957a0678a2a",
+        "android_client_info": {
+          "package_name": "com.example.hello_google_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnStKHdp3-6ishRXjaoVdTpl2w8TrocKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356062474015:android:846e50b74cae8e4f678a2a",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnStKHdp3-6ishRXjaoVdTpl2w8TrocKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
